@@ -6,7 +6,7 @@ This project is a clone of Netflix's homepage, created using HTML and CSS. It de
 
 ## Demo
 
-You can see a live demo of the game here:- https://netflix-clone-op.vercel.app/
+You can see a live demo here:- https://netflix-clone-op.vercel.app/
 
 ## Features
 
